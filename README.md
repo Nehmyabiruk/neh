@@ -12,11 +12,11 @@ The **Spiritual Tracker App** is a personal tool designed to help Christians gro
 
 ## 🛠️ Technologies Used
 
-- Frontend: `React.js` (or specify your stack)
-- Backend: `Node.js / Express` (if applicable)
-- Database: `MongoDB / Firebase / PostgreSQL` (if used)
+- Frontend: `HTML, CSS, Java script`
+- Backend:  `Mysql`
+- Database: `Postman`
 - Styling: `Tailwind CSS / CSS / Bootstrap`
-- Hosting: `GitHub Pages / Vercel / Netlify` (if deployed)
+- Hosting: `GitHub Pages / Vercel / Netlify` 
 
 ## 🚀 Getting Started
 
