@@ -1,16 +1,38 @@
-# My Application
+# # 🙏 Spiritual Tracker App
 
-A new Flutter project.
+The **Spiritual Tracker App** is a personal tool designed to help Christians grow in their spiritual journey by tracking daily habits, devotional practices, and progress in faith-based goals.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- 📖 **Bible Reading Tracker** – Log and track chapters or verses read daily
+- 🙏 **Prayer Journal** – Record prayers, prayer requests, and answered prayers
+- 🎯 **Spiritual Goals** – Set and complete goals like fasting, scripture memorization, or attending fellowship
+- 📆 **Daily Reflections** – Write daily notes, gratitude entries, or reflections
+- ⛪ **Church Attendance** – Mark attendance or participation in spiritual events
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Frontend: `React.js` (or specify your stack)
+- Backend: `Node.js / Express` (if applicable)
+- Database: `MongoDB / Firebase / PostgreSQL` (if used)
+- Styling: `Tailwind CSS / CSS / Bootstrap`
+- Hosting: `GitHub Pages / Vercel / Netlify` (if deployed)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/your-username/spiritual-tracker-app.git
+
+### 2. npm install
+
+### 3. npm run dev
+# or
+npm start
+
+📦 Deployment
+Hosted live at: https://your-username.github.io/spiritual-tracker-app
+
+📜 License
+This project is licensed under the MIT License
